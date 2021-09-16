@@ -1,3 +1,8 @@
+## Description
+
+Extremely simple compass application for Microbit, mostly as a PoC for myself :)
+
+---
 
 > Open this page at [https://mpmansell.github.io/simple-microbit-compass/](https://mpmansell.github.io/simple-microbit-compass/)
 
